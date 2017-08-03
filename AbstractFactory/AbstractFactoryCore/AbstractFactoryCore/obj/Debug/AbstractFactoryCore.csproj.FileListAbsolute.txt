@@ -1,0 +1,7 @@
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\AbstractFactory\AbstractFactoryCore\AbstractFactoryCore\bin\Debug\AbstractFactoryCore.exe.config
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\AbstractFactory\AbstractFactoryCore\AbstractFactoryCore\bin\Debug\AbstractFactoryCore.exe
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\AbstractFactory\AbstractFactoryCore\AbstractFactoryCore\bin\Debug\AbstractFactoryCore.pdb
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\AbstractFactory\AbstractFactoryCore\AbstractFactoryCore\obj\Debug\AbstractFactoryCore.csprojResolveAssemblyReference.cache
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\AbstractFactory\AbstractFactoryCore\AbstractFactoryCore\obj\Debug\AbstractFactoryCore.csproj.CoreCompileInputs.cache
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\AbstractFactory\AbstractFactoryCore\AbstractFactoryCore\obj\Debug\AbstractFactoryCore.exe
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\AbstractFactory\AbstractFactoryCore\AbstractFactoryCore\obj\Debug\AbstractFactoryCore.pdb

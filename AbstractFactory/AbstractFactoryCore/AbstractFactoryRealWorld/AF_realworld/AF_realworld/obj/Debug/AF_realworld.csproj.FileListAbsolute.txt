@@ -1,0 +1,7 @@
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\AbstractFactory\AbstractFactoryCore\AbstractFactoryRealWorld\AF_realworld\AF_realworld\bin\Debug\AF_realworld.exe.config
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\AbstractFactory\AbstractFactoryCore\AbstractFactoryRealWorld\AF_realworld\AF_realworld\bin\Debug\AF_realworld.exe
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\AbstractFactory\AbstractFactoryCore\AbstractFactoryRealWorld\AF_realworld\AF_realworld\bin\Debug\AF_realworld.pdb
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\AbstractFactory\AbstractFactoryCore\AbstractFactoryRealWorld\AF_realworld\AF_realworld\obj\Debug\AF_realworld.csprojResolveAssemblyReference.cache
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\AbstractFactory\AbstractFactoryCore\AbstractFactoryRealWorld\AF_realworld\AF_realworld\obj\Debug\AF_realworld.csproj.CoreCompileInputs.cache
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\AbstractFactory\AbstractFactoryCore\AbstractFactoryRealWorld\AF_realworld\AF_realworld\obj\Debug\AF_realworld.exe
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\AbstractFactory\AbstractFactoryCore\AbstractFactoryRealWorld\AF_realworld\AF_realworld\obj\Debug\AF_realworld.pdb
