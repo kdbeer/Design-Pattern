@@ -1,0 +1,7 @@
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Builder\BuilderRealWorld\BuilderRealWorld\BuilderRealWorld\bin\Debug\BuilderRealWorld.exe.config
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Builder\BuilderRealWorld\BuilderRealWorld\BuilderRealWorld\bin\Debug\BuilderRealWorld.exe
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Builder\BuilderRealWorld\BuilderRealWorld\BuilderRealWorld\bin\Debug\BuilderRealWorld.pdb
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Builder\BuilderRealWorld\BuilderRealWorld\BuilderRealWorld\obj\Debug\BuilderRealWorld.csprojResolveAssemblyReference.cache
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Builder\BuilderRealWorld\BuilderRealWorld\BuilderRealWorld\obj\Debug\BuilderRealWorld.csproj.CoreCompileInputs.cache
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Builder\BuilderRealWorld\BuilderRealWorld\BuilderRealWorld\obj\Debug\BuilderRealWorld.exe
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Builder\BuilderRealWorld\BuilderRealWorld\BuilderRealWorld\obj\Debug\BuilderRealWorld.pdb
