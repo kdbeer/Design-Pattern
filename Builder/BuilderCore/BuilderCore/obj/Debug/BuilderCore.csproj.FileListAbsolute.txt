@@ -1,0 +1,7 @@
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Builder\BuilderCore\BuilderCore\bin\Debug\BuilderCore.exe.config
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Builder\BuilderCore\BuilderCore\bin\Debug\BuilderCore.exe
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Builder\BuilderCore\BuilderCore\bin\Debug\BuilderCore.pdb
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Builder\BuilderCore\BuilderCore\obj\Debug\BuilderCore.csprojResolveAssemblyReference.cache
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Builder\BuilderCore\BuilderCore\obj\Debug\BuilderCore.csproj.CoreCompileInputs.cache
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Builder\BuilderCore\BuilderCore\obj\Debug\BuilderCore.exe
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Builder\BuilderCore\BuilderCore\obj\Debug\BuilderCore.pdb
