@@ -1,0 +1,7 @@
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\BridgeRealWorld\BridgeRealWorld\bin\Debug\BridgeRealWorld.exe.config
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\BridgeRealWorld\BridgeRealWorld\bin\Debug\BridgeRealWorld.exe
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\BridgeRealWorld\BridgeRealWorld\bin\Debug\BridgeRealWorld.pdb
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\BridgeRealWorld\BridgeRealWorld\obj\Debug\BridgeRealWorld.csprojResolveAssemblyReference.cache
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\BridgeRealWorld\BridgeRealWorld\obj\Debug\BridgeRealWorld.csproj.CoreCompileInputs.cache
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\BridgeRealWorld\BridgeRealWorld\obj\Debug\BridgeRealWorld.exe
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\BridgeRealWorld\BridgeRealWorld\obj\Debug\BridgeRealWorld.pdb

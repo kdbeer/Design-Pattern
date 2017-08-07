@@ -1,0 +1,7 @@
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Adapter\AdapterCore\AdapterCore\bin\Debug\AdapterCore.exe.config
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Adapter\AdapterCore\AdapterCore\bin\Debug\AdapterCore.exe
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Adapter\AdapterCore\AdapterCore\bin\Debug\AdapterCore.pdb
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Adapter\AdapterCore\AdapterCore\obj\Debug\AdapterCore.csprojResolveAssemblyReference.cache
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Adapter\AdapterCore\AdapterCore\obj\Debug\AdapterCore.csproj.CoreCompileInputs.cache
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Adapter\AdapterCore\AdapterCore\obj\Debug\AdapterCore.exe
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Adapter\AdapterCore\AdapterCore\obj\Debug\AdapterCore.pdb

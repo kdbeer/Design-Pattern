@@ -1,0 +1,7 @@
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Singleton\SingletonCore\SingletonCore\bin\Debug\SingletonCore.exe.config
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Singleton\SingletonCore\SingletonCore\bin\Debug\SingletonCore.exe
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Singleton\SingletonCore\SingletonCore\bin\Debug\SingletonCore.pdb
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Singleton\SingletonCore\SingletonCore\obj\Debug\SingletonCore.csprojResolveAssemblyReference.cache
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Singleton\SingletonCore\SingletonCore\obj\Debug\SingletonCore.csproj.CoreCompileInputs.cache
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Singleton\SingletonCore\SingletonCore\obj\Debug\SingletonCore.exe
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Singleton\SingletonCore\SingletonCore\obj\Debug\SingletonCore.pdb

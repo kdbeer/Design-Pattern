@@ -1,0 +1,7 @@
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Factory Method\FactoryMethodCore\FactoryMethodCore\bin\Debug\FactoryMethodCore.exe.config
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Factory Method\FactoryMethodCore\FactoryMethodCore\bin\Debug\FactoryMethodCore.exe
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Factory Method\FactoryMethodCore\FactoryMethodCore\bin\Debug\FactoryMethodCore.pdb
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Factory Method\FactoryMethodCore\FactoryMethodCore\obj\Debug\FactoryMethodCore.csprojResolveAssemblyReference.cache
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Factory Method\FactoryMethodCore\FactoryMethodCore\obj\Debug\FactoryMethodCore.csproj.CoreCompileInputs.cache
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Factory Method\FactoryMethodCore\FactoryMethodCore\obj\Debug\FactoryMethodCore.exe
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Factory Method\FactoryMethodCore\FactoryMethodCore\obj\Debug\FactoryMethodCore.pdb

@@ -1,0 +1,7 @@
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Prototype\PrototypeRealWorld\PrototypeRealWorld\bin\Debug\PrototypeRealWorld.exe.config
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Prototype\PrototypeRealWorld\PrototypeRealWorld\bin\Debug\PrototypeRealWorld.exe
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Prototype\PrototypeRealWorld\PrototypeRealWorld\bin\Debug\PrototypeRealWorld.pdb
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Prototype\PrototypeRealWorld\PrototypeRealWorld\obj\Debug\PrototypeRealWorld.csprojResolveAssemblyReference.cache
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Prototype\PrototypeRealWorld\PrototypeRealWorld\obj\Debug\PrototypeRealWorld.csproj.CoreCompileInputs.cache
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Prototype\PrototypeRealWorld\PrototypeRealWorld\obj\Debug\PrototypeRealWorld.exe
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Prototype\PrototypeRealWorld\PrototypeRealWorld\obj\Debug\PrototypeRealWorld.pdb

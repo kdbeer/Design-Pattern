@@ -1,0 +1,6 @@
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Singleton\SingletonRealWorld\SingletonRealWorld\bin\Debug\SingletonRealWorld.exe.config
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Singleton\SingletonRealWorld\SingletonRealWorld\bin\Debug\SingletonRealWorld.exe
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Singleton\SingletonRealWorld\SingletonRealWorld\bin\Debug\SingletonRealWorld.pdb
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Singleton\SingletonRealWorld\SingletonRealWorld\obj\Debug\SingletonRealWorld.csproj.CoreCompileInputs.cache
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Singleton\SingletonRealWorld\SingletonRealWorld\obj\Debug\SingletonRealWorld.exe
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Singleton\SingletonRealWorld\SingletonRealWorld\obj\Debug\SingletonRealWorld.pdb

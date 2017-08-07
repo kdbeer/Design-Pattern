@@ -1,0 +1,7 @@
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Prototype\PrototypeCore\PrototypeCore\bin\Debug\PrototypeCore.exe.config
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Prototype\PrototypeCore\PrototypeCore\bin\Debug\PrototypeCore.exe
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Prototype\PrototypeCore\PrototypeCore\bin\Debug\PrototypeCore.pdb
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Prototype\PrototypeCore\PrototypeCore\obj\Debug\PrototypeCore.csprojResolveAssemblyReference.cache
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Prototype\PrototypeCore\PrototypeCore\obj\Debug\PrototypeCore.csproj.CoreCompileInputs.cache
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Prototype\PrototypeCore\PrototypeCore\obj\Debug\PrototypeCore.exe
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Prototype\PrototypeCore\PrototypeCore\obj\Debug\PrototypeCore.pdb

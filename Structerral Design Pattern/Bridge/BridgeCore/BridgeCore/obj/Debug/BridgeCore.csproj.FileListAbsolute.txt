@@ -1,0 +1,7 @@
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Bridge\BridgeCore\BridgeCore\bin\Debug\BridgeCore.exe.config
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Bridge\BridgeCore\BridgeCore\bin\Debug\BridgeCore.exe
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Bridge\BridgeCore\BridgeCore\bin\Debug\BridgeCore.pdb
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Bridge\BridgeCore\BridgeCore\obj\Debug\BridgeCore.csprojResolveAssemblyReference.cache
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Bridge\BridgeCore\BridgeCore\obj\Debug\BridgeCore.csproj.CoreCompileInputs.cache
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Bridge\BridgeCore\BridgeCore\obj\Debug\BridgeCore.exe
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Bridge\BridgeCore\BridgeCore\obj\Debug\BridgeCore.pdb

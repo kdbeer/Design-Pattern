@@ -1,0 +1,7 @@
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Singleton\SingletonOptimize\SingletonOptimize\bin\Debug\SingletonOptimize.exe.config
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Singleton\SingletonOptimize\SingletonOptimize\bin\Debug\SingletonOptimize.exe
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Singleton\SingletonOptimize\SingletonOptimize\bin\Debug\SingletonOptimize.pdb
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Singleton\SingletonOptimize\SingletonOptimize\obj\Debug\SingletonOptimize.csprojResolveAssemblyReference.cache
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Singleton\SingletonOptimize\SingletonOptimize\obj\Debug\SingletonOptimize.csproj.CoreCompileInputs.cache
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Singleton\SingletonOptimize\SingletonOptimize\obj\Debug\SingletonOptimize.exe
+C:\Users\Kridsada Duangmala\Documents\Projects\Design Pattern\Singleton\SingletonOptimize\SingletonOptimize\obj\Debug\SingletonOptimize.pdb
