@@ -1,0 +1,1 @@
+when i have to work with data and i have class to handle data. if i don't want to touch this class i will build this bridge pattern relate to data bject class to handle it.
