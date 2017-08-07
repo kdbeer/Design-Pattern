@@ -1,0 +1,1 @@
+when i need a tree structure. for example web page structure there are a home page and have link to another page and individual page have their sub page. I need to implement this pattern to my project
