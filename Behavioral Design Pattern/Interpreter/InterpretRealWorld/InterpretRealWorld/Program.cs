@@ -63,6 +63,9 @@ namespace InterpretRealWorld
         }
     }
 
+    /// <summary>
+    /// The 'AbstractExpression' class
+    /// </summary>
     abstract class Expression
     {
         public void Interpret(Context context)
@@ -100,6 +103,9 @@ namespace InterpretRealWorld
         public abstract string Nine();
     }
 
+    /// <summary>
+    /// The 'TerminalExpression' class
+    /// </summary>
     class ThousandExpression : Expression
     {
         public override string Five()
@@ -128,6 +134,9 @@ namespace InterpretRealWorld
         }
         
     }
+    /// <summary>
+    /// The 'TerminalExpression' class
+    /// </summary>
     class HundredExpression : Expression
     {
         public override string One() { return "C"; }
@@ -136,6 +145,9 @@ namespace InterpretRealWorld
         public override string Nine() { return "CM"; }
         public override int Multiplier() { return 100; }
     }
+    /// <summary>
+    /// The 'TerminalExpression' class
+    /// </summary>
     class TenExpression :Expression
     {
         public override string One() { return "X"; }
@@ -144,6 +156,9 @@ namespace InterpretRealWorld
         public override string Nine() { return "XC"; }
         public override int Multiplier() { return 10; }
     }
+    /// <summary>
+    /// The 'TerminalExpression' class
+    /// </summary>
     class OneExpression : Expression
     {
         public override string One() { return "I"; }
